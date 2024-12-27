@@ -12,7 +12,7 @@ This is a sime Brainfuck to JavaScript compiler. It takes Brainfuck code as inpu
 1. Clone the repository:
     ```sh
     git clone https://github.com/SpaceNerd24/BrainfuckCompiler.git
-    cd bfcompiler
+    cd BrainfuckCompiler
     ```
 
 2. Install dependencies:
