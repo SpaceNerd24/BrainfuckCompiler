@@ -1,0 +1,19 @@
+{
+    "name": "bfcompiler",
+    "version": "1.0.0",
+    "description": "A Brainfuck to JavaScript compiler",
+    "main": "main.js",
+    "scripts": {
+      "start": "node ./src/main.js",
+      "compile": "node ./src/main.js",
+      "test": "echo \"No tests yet...\""
+    },
+    "keywords": [
+      "Brainfuck",
+      "compiler",
+      "JavaScript"
+    ],
+    "author": "SpaceNerd24",
+    "license": "MIT"
+  }
+  
